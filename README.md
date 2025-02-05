@@ -1,4 +1,9 @@
 # .
+## Autor
+- Nombre: Yanin Contreras Barreras
+- Email: a23311041uthermosillo.edu.mx
+- GitHub: [@yanincb]https://github.com/Yanincb
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
